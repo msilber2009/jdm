@@ -1,4 +1,5 @@
 [
+     
     {
         "name": "/e/",
         "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
@@ -4842,6 +4843,15 @@
         "notes": "You first need to delete/transfer all your repositories. After that you can visit the linked page and delete your account.",
         "domains": ["dagshub.com"]
     },
+       {
+    "name": "Daily Brain Coach",
+    "url": "https://dailybraincoach.com/en/auth?mode=login&redirect=/account",
+    "difficulty": "easy",
+    "domains": [
+        "dailybraincoach.com"
+    ],
+    "notes": "You must be logged in to access account settings and delete your account."
+},
     {
         "name": "The Daily Wire",
         "url": "https://privacy.dailywire.com/",
